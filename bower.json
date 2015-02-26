@@ -1,0 +1,11 @@
+{
+    "name": "ngOnDemand",
+    "description": "A way to load AngularJS controllers ondemand",
+    "version": "0.0.1",
+    "authors": [
+        "Zubair Lawrence <zubairla@lizardpro.com>"
+    ],
+    "license": "MIT",
+    "ignore": [ ],
+    "dependencies": { }
+}
