@@ -5,7 +5,7 @@ A way to load AngularJS controllers ondemand.
 This is a way to load AngularJS controlers when they are needed. It will load the script over xhr when the controler is requested.
 
 ### Version
-0.0.1
+0.0.3
 
 ### Todo's
 
@@ -19,7 +19,7 @@ This is a way to load AngularJS controlers when they are needed. It will load th
 Via Bower
 
 ```sh
-$ bower install  ngOnDemand
+$ bower install  ng-ondemand
 ```
 
 ### Usage

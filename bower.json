@@ -1,7 +1,7 @@
 {
-    "name": "ngOnDemand",
+    "name": "ng-ondemand",
     "description": "A way to load AngularJS controllers ondemand",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "ngOnDemand.js",
     "authors": [
         "Zubair Lawrence <zubairla@lizardpro.com>"
